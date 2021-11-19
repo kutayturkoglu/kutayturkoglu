@@ -4,7 +4,7 @@
 
 🎓 &nbsp;I'm currently studying Statistics and also studying Computer Science at Dokuz Eylul University.
 
-🌱 &nbsp;I'm on track for learning more about Data Science on my free times.
+🌱 &nbsp;I'm on track for learning more about Data Science/Natural Language Processing on my free times.
 
 💬 &nbsp;Feel free to reach out to me for anything, maybe for some interesting discussion.
 
