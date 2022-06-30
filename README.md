@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm currently studying Statistics and also studying Computer Science at Dokuz Eylul University.
+🎓 &nbsp;I'm recently graduated from both Statistics and Computer Science Department of Dokuz Eylul University.
 
 🌱 &nbsp;I'm on track for learning more about Data Science/Natural Language Processing on my free times.
 
