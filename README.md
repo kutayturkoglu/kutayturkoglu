@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm an Elite Master Program Data Science student at Ludwig Maximilians Universitat Munchen.
+🎓 &nbsp;I'm an Elite Master Program of Data Science student at Ludwig Maximilians Universitat Munchen.
 
 🌱 &nbsp;I current work on Flask and Bootstrap but I'm on track for learning more about Data Science/Natural Language Processing on my free times.
 
