@@ -4,7 +4,7 @@
 
 🎓 &nbsp;I'm an MS. Data Science student at Ludwig Maximilians Universitat Muenchen.
 
-🌱 &nbsp;I currently work on Flask and Bootstrap but I'm on track for learning more about Data Science/Natural Language Processing on my free times.
+🌱 &nbsp;I currently work on Clustering Algorithms I'm on track for learning more about Data Science/Natural Language Processing on my free times.
 
 💬 &nbsp;Feel free to reach out to me for anything, maybe for some interesting discussion.
 
