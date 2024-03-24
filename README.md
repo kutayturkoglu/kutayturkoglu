@@ -2,9 +2,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-🎓 &nbsp;I'm an MS. Data Science student at Ludwig Maximilians Universitat Muenchen.
+🎓 &nbsp;I'm an MS. Data Science student at Ludwig Maximilians Universitat München.
 
-🌱 &nbsp;I currently work on Deep Learning for Visual Data and I'm on track for learning more about Computer Vision on my free times.
+🌱 &nbsp;I currently work on Deep Learning for Visual Learning and I'm on track for learning more about Computer Vision on my free times.
 
 💬 &nbsp;Feel free to reach out to me for anything, maybe for some interesting discussion.
 
